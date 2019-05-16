@@ -1,22 +1,21 @@
 # main links links
 main:
+
+  
+  - title: "Resume"
+    url: /files/2019-05-15-EricGentry-resume.pdf
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Portfolio"
+    url: /portfolio/
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
+
+  - title: "Useful Links"
+    url: /useful-links/
+  
+  - title: "Updates"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
