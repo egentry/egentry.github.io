@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a data and machine learning scientist at Microsoft (starting July 2019). Previously I was an astronomer, receiving my PhD in May 2019 from UC Santa Cruz; before that I studied physics as an undergrad at MIT. During my summers in grad school I interned at [what is now] [Mission Lane](https://www.missionlane.com/) in 2017 and at [Microsoft](https://azure.microsoft.com/en-us/blog/topics/datascience/?cdn=disable) in 2018.
+I'm a data and machine learning scientist at Microsoft, developing new ways to recommend online shopping products that a consumer might like. Previously I was an astronomer, receiving my PhD in May 2019 from UC Santa Cruz; before that I studied physics as an undergrad at MIT. During my summers in grad school I interned at [what is now] [Mission Lane](https://www.missionlane.com/) in 2017 and at [Microsoft](https://azure.microsoft.com/en-us/blog/topics/datascience/?cdn=disable) in 2018.
 
 During my first two years of grad school, I worked with Prof. [Mark Krumholz](http://www.mso.anu.edu.au/~krumholz/), studying the [effects of supernovae explosions](https://arxiv.org/abs/1606.01242). I continued that work with Prof. [Piero Madau](http://www.ucolick.org/~pmadau/Home.html), adding more complicated physics into our model ([magnetic fields](https://arxiv.org/abs/1802.06860), turbulence, gravity, etc.).
 
