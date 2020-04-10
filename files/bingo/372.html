@@ -1,0 +1,36 @@
+
+    <style>
+    td {
+        border-style:solid;
+        border-width:medium;
+        border-color:black;
+        width: 50pt;
+        height: 50pt;
+        text-align:center;
+    }
+    .focus
+    {
+        background: lightgreen;
+    }
+    </style>
+    <html>
+    <head>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    </head>
+    <body>
+<table>
+<tr><th>B</th><th>I</th><th>N</th><th>G</th><th>O</th>
+<tr><td>10</td><td>24</td><td>34</td><td>58</td><td>63</td></tr>
+<tr><td>3</td><td>27</td><td>42</td><td>53</td><td>68</td></tr>
+<tr><td>7</td><td>26</td><td>FREE</td><td>50</td><td>65</td></tr>
+<tr><td>12</td><td>28</td><td>45</td><td>55</td><td>66</td></tr>
+<tr><td>9</td><td>19</td><td>32</td><td>49</td><td>62</td></tr>
+</table>
+    <script type="text/javascript">
+    $("td").click(function() {
+        $(this).toggleClass("focus");
+        });
+    </script>
+    </body>
+    </html>
+    
