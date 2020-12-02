@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Eric S. Gentry"
   avatar           : "EricGentry_2019_01_01.jpg"
-  bio              : "Data and Machine Learning Scientist<br>BS: MIT '14<br>PhD: UCSC '19"
-  location         : "SF Bay Area, CA"
-  employer         : "Microsoft"
+  bio              : "Applied Scientist<br>BS: MIT '14<br>PhD: UCSC '19"
+  location         : "Seattle, WA"
+  employer         : "Amazon"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=sTUrY2MAAAAJ"
   email            : "gentry.e@gmail.com"
