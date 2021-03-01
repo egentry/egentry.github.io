@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an applied scientist at Amazon, using machine learning to create new ways to connect brands and online shoppers.  Previously I was a data and applied scientist at Microsoft where I built product recommendation systems for online shoppers. On the side, I also offer [data science consulting and contract services](./consulting.md).
+I'm an applied scientist at Amazon, using machine learning to create new ways to connect brands and online shoppers.  Previously I was a data and applied scientist at Microsoft where I built product recommendation systems for online shoppers. On the side, I also offer [data science consulting and contract services](./consulting/).
 
 Before moving into the machine learning world, I was an astronomer, receiving my PhD from UC Santa Cruz in May 2019 and my bachelor's in physics at MIT.
 
