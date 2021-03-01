@@ -4,7 +4,7 @@ title: "Consulting and Contract Work"
 excerpt: "Eric Gentry Data Science"
 author_profile: true
 redirect_from: 
-  - /consulting/
+  - /consulting
   - /consulting.html
 ---
 
