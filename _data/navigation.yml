@@ -3,10 +3,13 @@ main:
 
   
   - title: "Resume"
-    url: /files/2020-03-15-EricGentry-resume.pdf
+    url: /files/2021-02-28-EricGentry-resume.pdf
 
   - title: "Publications"
     url: /publications/
+
+  - title: "Consulting & Contracting"
+    url: /consulting/
 
   - title: "Portfolio"
     url: /portfolio/
